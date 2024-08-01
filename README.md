@@ -1,0 +1,2 @@
+# RENSERVER-MOD
+RENSERVERで使用するMODパックです
